@@ -1,0 +1,16 @@
+body{
+  background-image: url(/static/background.png);
+}
+
+
+h2{
+  color: white;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: #525B63;
+}
